@@ -28,7 +28,7 @@
         }
     ],
     "require": {
-        "symfony/symfony": "~2.3",
+        "symfony/symfony": "~3.0",
         "unifik/doctrine-behaviors-bundle": "dev-master",
         "liip/imagine-bundle": "~1.0",
         "friendsofsymfony/jsrouting-bundle": "dev-master"
